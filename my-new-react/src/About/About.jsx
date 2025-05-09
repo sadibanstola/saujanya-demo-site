@@ -92,7 +92,7 @@ const AboutUs = () => {
             className="relative"
           >
             <img
-              src=""
+              src="public/WhatsApp Image 2025-05-09 at 7.59.21 PM.jpeg"
               alt="Saujanya Metal & Engineering Works Factory"
               className="w-full h-auto rounded-xl shadow-lg object-cover"
             />

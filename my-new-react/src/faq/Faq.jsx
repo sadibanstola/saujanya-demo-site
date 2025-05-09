@@ -16,8 +16,8 @@ const FAQSection = () => {
       answer: 'Lead times vary depending on the complexity and order size, typically ranging from 2 to 6 weeks. We provide a detailed timeline upon order confirmation to ensure transparency.',
     },
     {
-      question: 'Do you ship pan-India?',
-      answer: 'Absolutely, we ship our products across India, ensuring safe and timely delivery to urban and rural locations. Contact us for shipping details and logistics support.',
+      question: 'Do you ship all over Nepal?',
+      answer: 'Absolutely, we ship our products across Nepal, ensuring safe and timely delivery to urban and rural locations. Contact us for shipping details and logistics support.',
     },
   ];
 
