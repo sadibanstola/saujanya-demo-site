@@ -16,7 +16,7 @@ const Footer = () => {
             className="flex flex-col items-center md:items-start"
           >
             <img
-              src="https://via.placeholder.com/150x50?text=Logo"
+              src="public/company.jpeg"
               alt="Saujanya Metal & Engineering Works Logo"
               className="h-12 mb-4"
             />
